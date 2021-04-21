@@ -367,8 +367,35 @@ if (day === 'Monday') {
 }
 */
 
+/*
 const age = 25;
 // age >= 18 ? console.log("I like to drink wine.") : console.log("I like to drink water.");
 
 const drink = age >= 18 ? 'wine' : 'water';
 console.log(drink);
+
+let drink2;
+if (age >= 18) {
+    drink2 = 'wine';
+} else {
+    drink2 = 'water';
+}
+console.log(drink2);
+*/
+
+/* -------------------- CODING CHALLENGE 4 -------------------- */
+
+let bill = 275;
+let tip = (bill <= 300 && bill >= 50) ? (bill * 0.15) : (bill * 0.20);
+
+console.log(`The bill was ${bill}, the tip was ${tip}, and the total value is ${bill + tip}`);
+
+bill = 40;
+tip = (bill <= 300 && bill >= 50) ? (bill * 0.15) : (bill * 0.20);
+console.log(`The bill was ${bill}, the tip was ${tip}, and the total value is ${bill + tip}`);
+
+bill = 430;
+tip = (bill <= 300 && bill >= 50) ? (bill * 0.15) : (bill * 0.20);
+console.log(`The bill was ${bill}, the tip was ${tip}, and the total value is ${bill + tip}`);
+
+/* -------------------- CODING CHALLENGE 4 -------------------- */
