@@ -1,1 +1,1 @@
-# How JavaScript Works Behind the Scenes
+# A Closer Look at Functions
