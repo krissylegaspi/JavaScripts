@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(255, 227, 231);
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.first {
+    color: rgb(126, 73, 82);
+}
+
+#your-name {
+    background-color: rgb(240, 145, 161);
+    border: 5px solid #444;
+    width: 400px;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+input, 
+button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+a {
+    background-color: pink;
+}
+
+#linkedin-image {
+    width: 300px;
+    height: 300px;
+}
+
+#your-name h2 {
+    color: purple;
+}
