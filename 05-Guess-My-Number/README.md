@@ -1,6 +1,6 @@
-## Guess My Number Game
+# Guess My Number Game
 
-# Coding Challenge 1
+## Coding Challenge 1
 
 Implement a game rest functionality, so that the player can make a new guess!
 Your tasks:
